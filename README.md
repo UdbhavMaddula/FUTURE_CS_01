@@ -148,10 +148,6 @@ B.E. CSE (Cyber Security)
 Chandigarh University
 
 - TryHackMe Top 5%
-- Deloitte Cybersecurity Simulation
-- Mastercard Cybersecurity Simulation
-- Tata Cybersecurity Simulation
-- IBM Industrial Training
 
 ---
 
